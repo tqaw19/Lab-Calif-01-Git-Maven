@@ -6,8 +6,8 @@ public class UserView {
 	    {
 		 
 		 
-	       JOptionPane.showMessageDialog(null, "Nombre completo: " + nombres);
-	       JOptionPane.showMessageDialog(null, "Edad: "+ edad);
+	       JOptionPane.showMessageDialog(null, "Nombre completo: " );
+	       JOptionPane.showMessageDialog(null, "Edad: ");
 	       
 	       
 	    }
